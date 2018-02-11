@@ -16,6 +16,7 @@ public class NewMain {
     public static void main(String[] args) {
         System.out.println("HOLAAA ESTA ES LA PRIMERA MODIFICACION REALIZADA POR LOLENLU");
         
+        System.out.println("HOLAA ESTA ES LA MODIFICACION DEL COLABORADOR DEL PROYECTO LOLENLU2");
     }
     
 }
