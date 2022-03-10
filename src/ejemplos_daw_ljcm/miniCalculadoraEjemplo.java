@@ -12,7 +12,6 @@ package ejemplos_daw_ljcm;
  */
 public class miniCalculadoraEjemplo {
 //Campos de la clase
-    
     /*
     *Constructor vacio que permite la utilizacion de sus metodos una vez creado el objeto
     */
