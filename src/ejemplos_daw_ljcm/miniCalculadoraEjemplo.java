@@ -24,7 +24,6 @@ public class miniCalculadoraEjemplo {
     public double valorAbsolute(double a)
     {
         double num=Math.abs(a);
-    
         return num;
     
     }
