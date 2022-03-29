@@ -16,6 +16,7 @@ public class miniCalculadoraEjemplo {
     *Constructor vacio que permite la utilizacion de sus metodos una vez creado el objeto
     */
     public miniCalculadoraEjemplo() {
+        /* EJEMPLO DE PRUEBA */
     }//Cierre del constructor
     
     
